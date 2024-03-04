@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react';
 
 function App() {
 
-  const[country, setCountry] = useState('')
+  const[country, setCountry] = useState('Yangon')
 
   const [data, setData] =  useState({})
 
